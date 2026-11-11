@@ -66,6 +66,5 @@ TetoTranscriber is a Windows desktop app that turns audio into **MIDI notes**. I
 
 <div align="center">
 
-🎵 Happy transcribing! 🎵
 
 </div>
